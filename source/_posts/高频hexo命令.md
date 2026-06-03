@@ -1,5 +1,5 @@
 ---
-title: 高频hexo命令
+title: 高频hexo/git命令
 date: 2026-06-04 00:02:14
 tags: [使用帮助, 软件使用]
 categories: 软件工具使用帮助
@@ -10,3 +10,9 @@ hexo clean	无		清理缓存		删文章、改配置、换主题后必跑
 hexo generate	hexo g		生成静态网页	将 Markdown 渲染为网页文件
 hexo server	hexo s		本地预览		在 localhost:4000 检查排版
 hexo deploy	hexo d		部署上线		推送网页到 GitHub 等云端
+
+博客根目录shift+右键进入powershell，运行以下代码
+git add .
+git commit -m "更新文章"
+git push origin main
+
