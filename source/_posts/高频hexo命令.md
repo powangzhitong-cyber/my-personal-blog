@@ -72,3 +72,10 @@ git commit -m "备份：新增了一篇关于Git推送的博客"
 Bash
 git push origin main
 注：如果你的默认分支叫 master，那就写 git push origin master
+
+
+
+title: 高频hexo/git命令
+date: 2026-06-04 00:02:14
+tags: [使用帮助, 软件使用]
+categories: 软件工具使用帮助
