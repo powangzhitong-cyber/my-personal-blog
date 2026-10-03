@@ -1,9 +1,9 @@
+---
 title: debian卸载无名杀
 date: 2026-06-04 00:02:14
 tags: [服务器, 软件使用]
 categories: 软件工具使用帮助
-如何卸载debian的无名杀服务器
-
+---
 要彻底卸载 Debian 系统上的“无名杀”（Noname Kill / Noname Server），请按照以下步骤操作：
 
 1
